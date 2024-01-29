@@ -1,0 +1,13 @@
+.zolta,
+.crna{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+.zolta{
+    background-color: yellow;
+    color: black;
+}
+.crna{
+    background-color: black;
+    color: white;
+}
